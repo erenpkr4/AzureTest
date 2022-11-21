@@ -1,0 +1,7 @@
+C:\Vsworkspace\Azure\Azure2.sln\Azure2\obj\Release\net6.0\PubTmp\Out\Azure2.exe
+C:\Vsworkspace\Azure\Azure2.sln\Azure2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Vsworkspace\Azure\Azure2.sln\Azure2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Vsworkspace\Azure\Azure2.sln\Azure2\obj\Release\net6.0\PubTmp\Out\Azure2.dll
+C:\Vsworkspace\Azure\Azure2.sln\Azure2\obj\Release\net6.0\PubTmp\Out\Azure2.deps.json
+C:\Vsworkspace\Azure\Azure2.sln\Azure2\obj\Release\net6.0\PubTmp\Out\Azure2.runtimeconfig.json
+C:\Vsworkspace\Azure\Azure2.sln\Azure2\obj\Release\net6.0\PubTmp\Out\Azure2.pdb
